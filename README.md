@@ -1,0 +1,1 @@
+My solution of Ruby project from The Odin project
